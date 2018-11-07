@@ -1,2 +1,4 @@
 # quick-start
-How to get started on GitHub
+
+This is a line added in RStudio. 
+
